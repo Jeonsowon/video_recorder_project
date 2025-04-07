@@ -17,7 +17,7 @@ My video recorder project using Python, OpenCV
  ![bad_test_output](https://github.com/user-attachments/assets/39da5168-9860-49a2-aaa2-0b04b69eeee7)
 
 
-## camera_calibration.py [📁](Image_Formation/camera_calibration.py) [📷](Image_Formation)
+## camera_calibration.py [📁](Image_Formation/camera_calibration.py) [📷](Image_Formation/rectified_001.png) [📷](Image_Formation/rectified_002.png)
 - 영상 크기 : 960 X 540
 - Calibration 영상 가이드
   - Space = Pause and show corners
